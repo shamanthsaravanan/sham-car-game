@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7431000000007078",
+      "name": "shamcar",
+      "domain": {
+        "id": "50022144824",
+        "name": "shamcar-60032461278.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60032461278",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
